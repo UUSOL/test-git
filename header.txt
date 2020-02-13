@@ -1,2 +1,2 @@
 Some Feature
-text from branch A
+text from branch B
